@@ -1,14 +1,13 @@
 import json
+import helpers
 
 def get_esg_rating(event, context):
-    body = {
-        "message": "Go Serverless v1.0! Your function executed successfully!",
-        "input": event
-    }
-
+    result = []
+    if event['companies']:
+        for company in event['companies']:
+            result.append(helpers.get_company_rating(company))
     response = {
         "statusCode": 200,
-        "body": json.dumps(body)
-    }
-
+        "companies_data": result
+  	}
     return response
