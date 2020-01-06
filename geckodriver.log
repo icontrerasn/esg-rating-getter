@@ -1,0 +1,45 @@
+1578338118554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAV38do"
+*** You are running in headless mode.
+1578338119192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578338119192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578338119192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578338119192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578338120848	Marionette	INFO	Listening on port 43067
+1578338120861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.msci.com/combo?browserId=firefox&minifierType=&themeId=msci71theme_WAR_msci&languageId=en_US&b=7110&esgratingsprofile:%2Fjs%2Fjquery-ui.min.js&esgratingsprofile:%2Fjs%2Fhighstock.js&main_search:%2Fjs%2Fjquery-ui.min.js&mscicookiebar_WAR_mscicookiebar:%2Fjs%2Fmain.js&t=1576840970000, line 18: Error: Highcharts error #16: www.highcharts.com/errors/16
+1578338273181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile01xwWS"
+*** You are running in headless mode.
+1578338273551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578338273551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578338273552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578338273552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578338275005	Marionette	INFO	Listening on port 36857
+1578338275090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.msci.com/combo?browserId=firefox&minifierType=&themeId=msci71theme_WAR_msci&languageId=en_US&b=7110&esgratingsprofile:%2Fjs%2Fjquery-ui.min.js&esgratingsprofile:%2Fjs%2Fhighstock.js&main_search:%2Fjs%2Fjquery-ui.min.js&mscicookiebar_WAR_mscicookiebar:%2Fjs%2Fmain.js&t=1576840970000, line 18: Error: Highcharts error #16: www.highcharts.com/errors/16
+1578338388307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq1HluQ"
+*** You are running in headless mode.
+1578338388672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578338388672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578338388672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578338388672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578338390205	Marionette	INFO	Listening on port 41047
+1578338390218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.msci.com/combo?browserId=firefox&minifierType=&themeId=msci71theme_WAR_msci&languageId=en_US&b=7110&esgratingsprofile:%2Fjs%2Fjquery-ui.min.js&esgratingsprofile:%2Fjs%2Fhighstock.js&main_search:%2Fjs%2Fjquery-ui.min.js&mscicookiebar_WAR_mscicookiebar:%2Fjs%2Fmain.js&t=1576840970000, line 18: Error: Highcharts error #16: www.highcharts.com/errors/16
+1578338427936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecGUsyl"
+*** You are running in headless mode.
+1578338428335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578338428335	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578338428336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578338428336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578338430211	Marionette	INFO	Listening on port 37659
+1578338430247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.msci.com/combo?browserId=firefox&minifierType=&themeId=msci71theme_WAR_msci&languageId=en_US&b=7110&esgratingsprofile:%2Fjs%2Fjquery-ui.min.js&esgratingsprofile:%2Fjs%2Fhighstock.js&main_search:%2Fjs%2Fjquery-ui.min.js&mscicookiebar_WAR_mscicookiebar:%2Fjs%2Fmain.js&t=1576840420000, line 18: Error: Highcharts error #16: www.highcharts.com/errors/16
+1578338494321	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoGMxZw"
+*** You are running in headless mode.
+1578338494840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578338494840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578338494841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578338494841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578338496766	Marionette	INFO	Listening on port 43899
+1578338496828	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.msci.com/combo?browserId=firefox&minifierType=&themeId=msci71theme_WAR_msci&languageId=en_US&b=7110&esgratingsprofile:%2Fjs%2Fjquery-ui.min.js&esgratingsprofile:%2Fjs%2Fhighstock.js&main_search:%2Fjs%2Fjquery-ui.min.js&mscicookiebar_WAR_mscicookiebar:%2Fjs%2Fmain.js&t=1576840420000, line 18: Error: Highcharts error #16: www.highcharts.com/errors/16

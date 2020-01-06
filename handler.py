@@ -1,6 +1,5 @@
 import json
 
-
 def get_esg_rating(event, context):
     body = {
         "message": "Go Serverless v1.0! Your function executed successfully!",
